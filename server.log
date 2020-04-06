@@ -1,0 +1,384 @@
+Configuration file: /data/git/io/_config.yml
+            Source: /data/git/io
+       Destination: /data/git/io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.899 seconds.
+ Auto-regeneration: enabled for '/data/git/io'
+    Server address: http://192.168.0.97:4000/
+  Server running... press ctrl-c to stop.
+[2020-04-06 14:11:06] ERROR `/foo/2013/12/25/elements/' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 14:14:29
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.536414588 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:14:30
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.593775863 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:14:44
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.535953286 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:16:50
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.579317944 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:16:51
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.530608099 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:16:58
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.514119948 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:17:25
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.53214208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:17:27
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.527634282 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:34:19
+                    _posts/test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.572178905 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:34:19
+                    _posts/test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.550214426 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:34:20
+                    _posts/test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.546825387 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:35:46
+                    _posts/test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.530452518 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2020-04-06 14:36:36
+                    _posts/test.html
+                    _posts/test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.519213672 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:36:58
+                    _posts/2019-09-30-quarkus-kafka-camel-servlet-wiring-it-together.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.561115749 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:37:35
+                    _posts/2019-10-30-quarkus-kafka-camel-servlet-wiring-it-together.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.755109847 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:37:58
+                    _posts/2019-10-30-quarkus-kafka-camel-servlet-wiring-it-together.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.587926235 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:38:27
+                    _posts/2020-04-06-test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.643427911 seconds.
+                    
+[2020-04-06 14:38:31] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 14:38:32] ERROR `/favicon.ico' not found.
+[2020-04-06 14:38:35] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 14:38:36] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 14:38:54
+                    _posts/2020-04-06-test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.638830977 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:39:06
+                    _posts/2020-04-06-test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.681459599 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:39:20
+                    _posts/2020-04-06-test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.619230668 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:39:58
+                    _posts/test.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.651799971 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:40:21
+                    _posts/2020-04-06-test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.597971359 seconds.
+                    
+[2020-04-06 14:40:23] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 14:40:48] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 14:40:56
+                    _posts/2020-04-06-test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.635134163 seconds.
+                    
+[2020-04-06 14:40:58] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 14:41:35
+                    _posts/2020-04-06-test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.623136767 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:41:36
+                    _posts/2020-04-06-test.md
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:41:53
+                    _posts/2020-04-06-test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.659544652 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 14:41:54
+                    _posts/2020-04-06-test.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.768661239 seconds.
+                    
+[2020-04-06 14:41:55] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 14:41:56] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 14:42:00] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 14:42:04] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 22 file(s) changed at 2020-04-06 14:42:25
+                    _posts/backup/2016-12-07-scalable-network-active-mq-brokers-handing-massive-connections.html
+                    _posts/backup/2017-02-02-quickstart-rest-microservice-with-spring-boot.html
+                    _posts/backup/2017-02-13-ansible-automation-for-highly-available-jboss-fuse-amq-integration-platform.html
+                    _posts/backup/2017-02-13-handling-large-streams-of-data-through-http-with-jboss-fuse.html
+                    _posts/backup/2017-02-16-faster-fuse-integration-service-s2i-openshift-deployments.html
+                    _posts/backup/2017-04-05-fuse-and-data-grid-in-library-mode-with-index-for-searching-and-cache-store.html
+                    _posts/backup/2017-04-07-fuse-data-grid-integration-via-hot-rod-with-persistence-and-indexing-for-advanced-queries.html
+                    _posts/backup/2017-04-11-openshift-quickstart-in-5-minutes.html
+                    _posts/backup/2019-03-15-quarkus-camel-first-impressions-on-a-game-changing-framework.html
+                    _posts/backup/2019-07-04-quarkus-kafka-camel-servlet-wiring-it-together.html
+                    _posts/backup/2019-09-30-quarkus-kafka-camel-servlet-wiring-it-together.html
+                    _posts/2016-12-07-scalable-network-active-mq-brokers-handing-massive-connections.html
+                    _posts/2017-02-02-quickstart-rest-microservice-with-spring-boot.html
+                    _posts/2017-02-13-ansible-automation-for-highly-available-jboss-fuse-amq-integration-platform.html
+                    _posts/2017-02-13-handling-large-streams-of-data-through-http-with-jboss-fuse.html
+                    _posts/2017-02-16-faster-fuse-integration-service-s2i-openshift-deployments.html
+                    _posts/2017-04-05-fuse-and-data-grid-in-library-mode-with-index-for-searching-and-cache-store.html
+                    _posts/2017-04-07-fuse-data-grid-integration-via-hot-rod-with-persistence-and-indexing-for-advanced-queries.html
+                    _posts/2017-04-11-openshift-quickstart-in-5-minutes.html
+                    _posts/2019-03-15-quarkus-camel-first-impressions-on-a-game-changing-framework.html
+                    _posts/2019-07-04-quarkus-kafka-camel-servlet-wiring-it-together.html
+                    _posts/2019-09-30-quarkus-kafka-camel-servlet-wiring-it-together.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.619863717 seconds.
+                    
+[2020-04-06 14:42:28] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 14:42:31] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 14:42:45
+                    _posts/backup/1.tar
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.638514086 seconds.
+                    
+      Regenerating: 11 file(s) changed at 2020-04-06 14:42:49
+                    _posts/backup/2016-12-07-scalable-network-active-mq-brokers-handing-massive-connections.html
+                    _posts/backup/2017-02-02-quickstart-rest-microservice-with-spring-boot.html
+                    _posts/backup/2017-02-13-ansible-automation-for-highly-available-jboss-fuse-amq-integration-platform.html
+                    _posts/backup/2017-02-13-handling-large-streams-of-data-through-http-with-jboss-fuse.html
+                    _posts/backup/2017-02-16-faster-fuse-integration-service-s2i-openshift-deployments.html
+                    _posts/backup/2017-04-05-fuse-and-data-grid-in-library-mode-with-index-for-searching-and-cache-store.html
+                    _posts/backup/2017-04-07-fuse-data-grid-integration-via-hot-rod-with-persistence-and-indexing-for-advanced-queries.html
+                    _posts/backup/2017-04-11-openshift-quickstart-in-5-minutes.html
+                    _posts/backup/2019-03-15-quarkus-camel-first-impressions-on-a-game-changing-framework.html
+                    _posts/backup/2019-07-04-quarkus-kafka-camel-servlet-wiring-it-together.html
+                    _posts/backup/2019-09-30-quarkus-kafka-camel-servlet-wiring-it-together.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.206757148 seconds.
+                    
+[2020-04-06 14:42:52] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 14:50:46] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 14:51:18] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 14:51:50
+                    _includes/disqus.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.165875019 seconds.
+                    
+[2020-04-06 15:00:37] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:01:53
+                    _layouts/default.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.182882954 seconds.
+                    
+[2020-04-06 15:01:54] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:02:05
+                    _layouts/default.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.189105866 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:05:05
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.171667146 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:05:05
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.182158333 seconds.
+                    
+[2020-04-06 15:05:14] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 15:10:03] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 15:19:49] ERROR `/assets/images/posts/test/top.jpg' not found.
+Configuration file: /data/git/io/_config.yml
+            Source: /data/git/io
+       Destination: /data/git/io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.228 seconds.
+ Auto-regeneration: enabled for '/data/git/io'
+    Server address: http://192.168.0.97:4000/
+  Server running... press ctrl-c to stop.
+[2020-04-06 15:20:15] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:21:31
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.183436209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:21:31
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.199443108 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:21:35
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.169599271 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:21:35
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.206843057 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:21:50
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.169180873 seconds.
+                    
+[2020-04-06 15:21:53] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:21:58
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.174392147 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:21:59
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.197383212 seconds.
+                    
+[2020-04-06 15:22:00] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 15:22:19] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:22:23
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.177421036 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:22:24
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.207694454 seconds.
+                    
+[2020-04-06 15:24:27] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:24:30
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.169376466 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:24:30
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.19238767 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:24:35
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.167634196 seconds.
+                    
+[2020-04-06 15:24:36] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:25:21
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.181933369 seconds.
+                    
+[2020-04-06 15:25:22] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:25:33
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.166003043 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:25:34
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.186161731 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:25:56
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.196986442 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:25:56
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.191766608 seconds.
+                    
+[2020-04-06 15:26:02] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:26:08
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.167201924 seconds.
+                    
+[2020-04-06 15:26:11] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:26:23
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.165153848 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:26:26
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.178091548 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:26:35
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.163779532 seconds.
+                    
+[2020-04-06 15:26:47] ERROR `/assets/images/posts/test/top.jpg' not found.
+[2020-04-06 15:26:47] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:26:49
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.175884061 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:26:49
+                    index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.192607309 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:27:19
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.161296811 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:27:23
+                    _data/settings.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.184192459 seconds.
+                    
+[2020-04-06 15:27:25] ERROR `/assets/images/posts/test/top.jpg' not found.
