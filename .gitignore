@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 .project
 simple.green.techblog.zip
+start.sh
+server.log

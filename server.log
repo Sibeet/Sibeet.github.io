@@ -382,3 +382,18 @@ Configuration file: /data/git/io/_config.yml
                     ...done in 0.184192459 seconds.
                     
 [2020-04-06 15:27:25] ERROR `/assets/images/posts/test/top.jpg' not found.
+      Regenerating: 1 file(s) changed at 2020-04-06 15:30:34
+                    _posts/backup/1.tar
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.18284059 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:32:54
+                    .gitignore
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.154354462 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2020-04-06 15:32:55
+                    .gitignore
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.170234703 seconds.
+                    
