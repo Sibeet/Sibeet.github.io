@@ -49,14 +49,14 @@ linkedin_username: 현준-이-b338bb223
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  실시간 데이터를 파이프라이닝하고 데이터 인프라를 관리하는 데이터 엔지니어입니다.
+  실시간 데이터를 파이프라이닝하고 데이터 인프라를 관리하는 데이터 엔지니어입니다.<br>
   Database 솔루션 회사에서 기술지원직으로 일한 경력을 바탕으로 데이터 거버넌스에 대한 방향성을 수립하고 사용자들에게 원하는 데이터를 제공해주고 있습니다.
 
-  초기 경력에서는 DB 엔지니어로서 업무를 수행했고, DB 초기 구성부터 성능 튜닝, 성능 개선이나 RDBMS 아키텍쳐, 기반 이론에 대해 숙지하고 DBA role의 업무를 수행했습니다.
-  SQL tuning, 시스템 개선 모니터링 등 대규모 금융권 사이트, 통신사 사이트에서 업무를 지원하였고, 공공, 통신권 차세대 프로젝트를 런칭했습니다.
+  초기 경력에서는 DB 엔지니어로서, DB 초기 구성부터 성능 개선, SQL tuning, DBMS 관리 등 DBA role의 업무를 수행했습니다 <br>
+  대규모 금융권 사이트, 통신사 사이트에서 업무를 지원하였고, 공공, 통신권 차세대 프로젝트를 런칭했습니다. <br>
 
-  기존의 실시간성 수집 Metric 데이터를 관리하기 위해 ELK스택으로 구성되어 있는 시스템의 안정성을 개선하고, 새로운 데이터 구성 흐름을 제시하였습니다.
-  수집-사용으로 단순화되어 있던 데이터를 효율적으로 관리하고 사용하기 위해 Data lake-Data mart-Data catalog 등의 간소화된 새로운 시스템 모델을 제안하고 구축했습니다.
+  기존의 수집-사용으로 단순화되어 있던 데이터를 효율적으로 관리하고 사용하기 위해 <br>
+  Data lake - Data mart - Data catalog 등의 간소화된 새로운 데이터 시스템 모델을 제안하고 구축했습니다. <br>
   최근 airflow 도입을 제안하여 체계화, 자동화된 데이터 파이프라인을 사내 제공 중에 있습니다.
 
   <mark>사용자들이 쉽게 이해할 수 있는</mark> 데이터를 제공하기 위해 오픈소스 기반의 각종 데이터 도구들(prometheus, opensearch, datahub, influxdb, grafana...)에 관해 리서치하고 아키텍처를 구상했습니다.
