@@ -12,21 +12,21 @@ email: lalsakiel@gmail.com
 # email_title: Email (Email title override)
 # phone_title: Phone (Phone title override)
 website: https://dev.to/hj_lee
-website_title: Blog (Website title override)
+website_title: Blog
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-github_username: Sibeet
+#github_username: Sibeet
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-linkedin_username: jameswgrant
+linkedin_username: 이현준
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
