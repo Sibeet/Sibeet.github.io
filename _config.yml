@@ -59,12 +59,26 @@ about_content: | # this will include new lines to allow paragraphs
   Data lake - Data mart - Data catalog 등의 간소화된 새로운 데이터 시스템 모델을 제안하고 구축했습니다. <br>
   최근 airflow 도입을 제안하여 체계화, 자동화된 데이터 파이프라인을 사내 제공 중에 있습니다.
 
-  <mark>사용자들이 쉽게 이해할 수 있는</mark> 데이터를 제공하기 위해 오픈소스 기반의 각종 데이터 도구들(prometheus, opensearch, datahub, influxdb, grafana...)에 관해 리서치하고 아키텍처를 구상했습니다.
+  <mark>사용자들이 쉽게 접근할 수 있는</mark> 데이터를 제공하기 위해 오픈소스 기반의 각종 데이터 도구들(prometheus, opensearch, datahub, influxdb, grafana...)에 관해 리서치하고 아키텍처를 구상했습니다.
   <mark>클라우드 기반</mark>의 사업 기반에 따라 k8s, openstack 등의 각종 가상화, container 시스템을 기반으로 데이터 인프라를 관리하고 점검, 개선하고 있습니다. 
   
-  주요 기술: <mark>RDBMS</mark> <mark>SQL</mark> <mark>k8s</mark> <mark>airflow</mark>
+  주요 기술: <mark>RDBMS</mark> <mark>SQL</mark> <mark>k8s</mark> <mark>airflow</mark> </mark>prometheus</mark>
 
 content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 선재소프트
+        # link_text: boringcompany.com
+        sub_title: 책임연구원 
+        caption: 2017.10 ~ 2022.06
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -84,33 +98,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+      - layout: top-middle
+        title: 금오공과대학교
+        caption: 2007 - 2017
+        sub_title: 컴퓨터소프트웨어공학과
+        quote: 
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
