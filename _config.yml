@@ -55,14 +55,14 @@ about_content: | # this will include new lines to allow paragraphs
   초기 경력에서는 DB 엔지니어로서, DB 초기 구성부터 성능 개선, SQL tuning, DBMS 관리 등 DBA role의 업무를 수행했습니다 <br>
   대규모 금융권 사이트, 통신사 사이트에서 업무를 지원하였고, 공공, 통신권 차세대 프로젝트를 런칭했습니다. <br>
 
-  데이터 엔지니어로서 업무를 진행한 오케스트로에서 기존의 수집-사용으로 단순화되어 있던 데이터를 효율적으로 관리하고 사용하기 위해 <br>
-  Data lake - Data mart - Data catalog 등의 간소화된 새로운 데이터 시스템 모델을 제안하고 구축했습니다. <br>
-  최근 airflow 도입을 제안하여 체계화, 자동화된 데이터 파이프라인을 사내 제공 중에 있습니다.
+  데이터 엔지니어로서 오케스트로에서 기존의 단순한 데이터 수집 및 사용 방식을 효율적으로 개선하기 위해 <br>
+  Data Lake, Data Mart, Data Catalog 등의 간소화된 새로운 데이터 시스템 모델을 제안하고 구축했습니다. <br>
+  최근에는 Airflow 도입을 제안하여 체계적이고 자동화된 데이터 파이프라인을 사내에 제공하고 있습니다.<br>
 
-  <mark>사용자들이 쉽게 접근할 수 있는</mark> 데이터를 제공하기 위해 오픈소스 기반의 각종 데이터 도구들(prometheus, opensearch, datahub, influxdb, grafana...)에 관해 리서치하고 아키텍처를 구상했습니다.
-  <mark>클라우드 기반</mark>의 사업 기반에 따라 k8s, openstack 등의 각종 가상화, container 시스템을 기반으로 데이터 인프라를 관리하고 점검, 개선하고 있습니다. 
+  사용자들이 쉽게 접근할 수 있는 데이터를 제공하기 위해 오픈소스 기반의 각종 데이터 도구들(prometheus, opensearch, datahub, influxdb, grafana...)에 관해 리서치하고 아키텍처를 구상했습니다.
+  클라우드 기반의 사업 기반에 따라 k8s, openstack 등의 각종 가상화, container 시스템을 기반으로 데이터 인프라를 관리하고 점검, 개선하고 있습니다. 
   
-  주요 기술: <mark>RDBMS</mark> <mark>SQL</mark> <mark>k8s</mark> <mark>airflow</mark> </mark>prometheus</mark>
+  주요 기술: <mark>RDBMS</mark> <mark>SQL</mark> <mark>k8s</mark> <mark>airflow</mark> <mark>prometheus</mark>
 
 content:
   - title: Experience # Title for the section
@@ -85,31 +85,58 @@ content:
         sub_title: 책임연구원 / 파트장
         caption: 2023.05 ~ 현재
         quote: >
-          Cloud CMP / Okestration 솔루션 개발 회사로, 다양한 사업 분야에서 유니콘 스타트업으로 손꼽히는 회사입니다.
+          Cloud CMP / Okestration 솔루션 개발 회사로, 주요 클라우드 사업 분야에서 유니콘 스타트업으로 손꼽히는 회사입니다.
         description: |
             - ELK 기반 Data pipeline 유지보수, 개선사항 관리
             - k8s 기반 Data pipeline 아키텍쳐 구성
             - 사내 데이터 관련 인프라 구성 / 개선
             - 파편화된 데이터 취합, 공통화 진행
+            - 데이터 카탈로그 등을 통한 인사이트 제시
 
-  - title: Projects # Title for the section
+  - title: Projects 
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+      - layout: left
+        title: LGU+ Ucube 차세대 프로젝트(과금시스템)
+        description: |
+          - LGU+ 통신 차세대 프로젝트로 과금시스템 원장 시스템 DB 구축
+          <br>
+          - 4 by 2의 대용량 클러스터링 구성으로 총 TPS 15000 가량의 대규모 시스템
+          - 가상 코어를 사용하는 솔루션 최초의 프로젝트로서, 가상 코어로 인한 성능 이슈 트래킹
+          - 과금 시 발생하는 대량의 트랜잭션을 관리하고 개선 방안을 제안
+          - Table별 적합한 Sharding key 모델링, 데이터 분산 처리
+          - 대량 TPS로 인해 발생하는 heap 메모리 문제 등 전체적인 시스템 모니터링
+          - 운영 초기 패치 이슈로 인한 on-line rolling 패치 진행
+
+      - layout: left
+        title: 케이뱅크 FDS시스템
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - 금융권 이상탐지를 위한 FDS 시스템 DB 구축
+          <br>
+          - 1 by 2 의 Replication 구조로 이루어져 있으며 솔루션 초기 Cluster 이슈를 담당
+          - OLTP성 대용량 데이터(200~300GB)의 데이터 복제 한계로 인해, 개선방안을 제안하고 장기적인 운영방안 수립
+          - online scale-up 요구사항에 맞춰 케이스를 테스트하고 아키텍쳐를 분석
+          - 초기 구축시 예상하지 못했던 slow query를 분석, 튜닝
+
+      - layout: left
+        title: 법무부 바이오 고속검색시스템
+        description: |
+          - 생체인식정보(지문, 얼굴) 데이터를 통한 대용량 검색 시스템 DB 구축
+          <br>
+          - row당 2k단위 대용량 byte 데이터 처리
+          - 2 by 2의 대용량 클러스터링 구성으로 데이터 분산, 병렬 처리 아키텍쳐를 제안
+          - sharding을 통한 2T 이상의 대용량 데이터 분산 처리
+          - OLAP성 시스템에 따른 읽기 병목 등 시스템 개선
+          - full scan 기준 40분 가량 걸리던 시스템을 쿼리, 시스템(클러스터링 재구성) 튜닝으로 5분으로 단축 
+
+  - title: Enhancement
+    layout: list 
+    content:
+      - layout: top-middle
+        title: 데이터 플랫폼 품질 개선
+          - 
+      
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
