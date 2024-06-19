@@ -65,17 +65,16 @@ about_content: | # this will include new lines to allow paragraphs
   주요 기술: <mark>RDBMS</mark> <mark>SQL</mark> <mark>k8s</mark> <mark>airflow</mark> <mark>prometheus</mark>
 
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience 
+    layout: list 
     content:
       - layout: left
         title: 선재소프트
-        # link_text: boringcompany.com
         sub_title: 책임연구원 
         caption: 2017.10 ~ 2022.06
         quote: >
           국산 In-memory RDBMS 데이터베이스 솔루션 개발 회사로, Sharding, Clustering, online Scale-out 등을 강점으로 강력한 기술력을 보유한 회사입니다.
-        description: | # this will include new lines to allow paragraphs
+        description: | 
             - DBMS 기술지원, 시스템 컨설팅
             - DBMS 전반적인 설치, 지원과 동시에 프로젝트 전반적인 DBA, DB 관련 Project Leading
             - Query Tuning, 시스템 성능 튜닝 등의 시스템 개선
@@ -94,13 +93,13 @@ content:
             - 데이터 카탈로그 등을 통한 인사이트 제시
 
   - title: Projects 
-    layout: list # Type of content section (list/text)
+    layout: list 
     content:
       - layout: left
-        title: LGU+ Ucube 차세대 프로젝트(과금시스템)
+        title: LGU+ Ucube 차세대
+        caption: 2021.08 ~ 2022.04
         description: |
           - LGU+ 통신 차세대 프로젝트로 과금시스템 원장 시스템 DB 구축
-          <br>
           - 4 by 2의 대용량 클러스터링 구성으로 총 TPS 15000 가량의 대규모 시스템
           - 가상 코어를 사용하는 솔루션 최초의 프로젝트로서, 가상 코어로 인한 성능 이슈 트래킹
           - 과금 시 발생하는 대량의 트랜잭션을 관리하고 개선 방안을 제안
@@ -110,10 +109,9 @@ content:
 
       - layout: left
         title: 케이뱅크 FDS시스템
-        # link_text: Project Website
-        description: | # this will include new lines to allow paragraphs
+        caption: 2018.06 ~ 2021.07
+        description: | 
           - 금융권 이상탐지를 위한 FDS 시스템 DB 구축
-          <br>
           - 1 by 2 의 Replication 구조로 이루어져 있으며 솔루션 초기 Cluster 이슈를 담당
           - OLTP성 대용량 데이터(200~300GB)의 데이터 복제 한계로 인해, 개선방안을 제안하고 장기적인 운영방안 수립
           - online scale-up 요구사항에 맞춰 케이스를 테스트하고 아키텍쳐를 분석
@@ -121,9 +119,9 @@ content:
 
       - layout: left
         title: 법무부 바이오 고속검색시스템
+        caption: 2021.09 ~ 2021.02
         description: |
           - 생체인식정보(지문, 얼굴) 데이터를 통한 대용량 검색 시스템 DB 구축
-          <br>
           - row당 2k단위 대용량 byte 데이터 처리
           - 2 by 2의 대용량 클러스터링 구성으로 데이터 분산, 병렬 처리 아키텍쳐를 제안
           - sharding을 통한 2T 이상의 대용량 데이터 분산 처리
@@ -134,31 +132,19 @@ content:
     layout: list 
     content:
       - layout: top-middle
-        title: 데이터 플랫폼 품질 개선
+        title: ELK 데이터 플랫폼 품질 개선
+          - 데이터 관리를 위한 ISM 정책 제안, 실제 운영 환경 적용
+          - opensearch clustering 구성 & 인증 운영 적용
           - 
       
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education 
+    layout: list 
     content:
       - layout: top-middle
         title: 금오공과대학교
         caption: 2007 - 2017
         sub_title: 컴퓨터소프트웨어공학과
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
