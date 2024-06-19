@@ -92,6 +92,12 @@ content:
             - 파편화된 데이터 취합, 공통화 진행
             - 데이터 카탈로그 등을 통한 인사이트 제시
 
+  - title: Skillset
+    layout: list 
+    content:
+      - layout: left
+        title: 
+
   - title: Projects 
     layout: list 
     content:
@@ -132,10 +138,22 @@ content:
     layout: list 
     content:
       - layout: top-middle
-        title: ELK 데이터 플랫폼 품질 개선
-          - 데이터 관리를 위한 ISM 정책 제안, 실제 운영 환경 적용
-          - opensearch clustering 구성 & 인증 운영 적용
-          - 
+        title: 메트릭 데이터 플랫폼 품질 개선
+        description: |
+          - 데이터 주기적 관리를 위한 opensearch ISM 정책 제안, 운영 환경 적용
+          - opensearch clustering 구성, 운영 방안, 백업 정책 확립
+          - 대용량 log 데이터 관리를 위한 external storage 적용 제안, 운영 적용(opensearch-s3, minio)
+          - 메트릭 수집 다변화 리서치, Prometheus-thanos-s3 아키텍쳐 적용, 테스트
+          - 팀 내부 인원 prometheus 교육
+        
+      - layout: top-middle
+        title: 플랫폼 데이터 통합 프로젝트
+        description: |
+          - 솔루션 플랫폼별로 분산되어 있는 데이터를 통합하기 위한 프로젝트를 제안, 진행
+          - 흩어져있는 수집 데이터를 한 곳으로 통합하고 데이터 저장소를 규격화(opensearch, prometheus, mariadb)
+          - 가공이 필요한 2차 데이터는 Airflow를 제안, 아키텍쳐를 설계하고 데이터 파이프라인 작성
+          - Datahub를 사용하여 데이터 카탈로그를 만들고 내부 인원들이 파이프라인, 데이터 description 등을 쉽게 조회할 수 있는 플랫폼 생성
+
       
 
   - title: Education 
