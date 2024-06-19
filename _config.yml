@@ -86,17 +86,41 @@ content:
         quote: >
           Cloud CMP / Okestration 솔루션 개발 회사로, 주요 클라우드 사업 분야에서 유니콘 스타트업으로 손꼽히는 회사입니다.
         description: |
-            - ELK 기반 Data pipeline 유지보수, 개선사항 관리
+            - ELK 아키텍쳐 Data pipeline 유지보수, 개선사항 관리
             - k8s 기반 Data pipeline 아키텍쳐 구성
             - 사내 데이터 관련 인프라 구성 / 개선
             - 파편화된 데이터 취합, 공통화 진행
             - 데이터 카탈로그 등을 통한 인사이트 제시
 
-  - title: Skillset
+  - title: Skill
     layout: list 
     content:
       - layout: left
-        title: 
+        title: Database
+        caption: 데이터베이스 관리, DBA role, 쿼리 튜닝
+        description: |
+          - Query tuning, Query processing, SQL
+          - Replication, Backup, Clustering, CDC
+          - MVCC architecture
+          - Mysql, mariadb, Postgresql, goldilocks
+
+      - layout: left
+        title: Infrastructure
+        caption: 인프라 구성, 운영, 모니터링
+        description: |
+          - Linux, Linux shell, Linux monitoring
+          - container, k8s, docker
+          - minio, s3
+      
+      - layout: left
+        title: Data engineering
+        caption: 데이터 인프라, 데이터 엔지니어링
+        description: | 
+          - opensearch(elasticsearch), kafka, logstash, beat
+          - prometheus
+          - Airflow
+          - Datahub 
+          - harbor
 
   - title: Projects 
     layout: list 
@@ -153,8 +177,7 @@ content:
           - 흩어져있는 수집 데이터를 한 곳으로 통합하고 데이터 저장소를 규격화(opensearch, prometheus, mariadb)
           - 가공이 필요한 2차 데이터는 Airflow를 제안, 아키텍쳐를 설계하고 데이터 파이프라인 작성
           - Datahub를 사용하여 데이터 카탈로그를 만들고 내부 인원들이 파이프라인, 데이터 description 등을 쉽게 조회할 수 있는 플랫폼 생성
-
-      
+          - 오프라인 기반의 인프라 구성으로 인한 오픈소스 아키텍쳐 파악, 내부 운영에 맞는 k8s 배포 방법 작성
 
   - title: Education 
     layout: list 
